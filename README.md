@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **AWS Network CDK Deployments**
 
-- 🌱 I’m currently learning **Data Engineering and Machine Learning**
+- 🌱 I’m currently learning **Data Science and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/marcbiggar23](https://github.com/marcbiggar23)
+- 👨‍💻 All of my projects are available at [https://github.com/marcbiggar23](https://github.com/marcbiggar-ds)
 
 - 💬 Ask me about **Networking, AWS, Python, TypeScript, SQL, ML**
 
